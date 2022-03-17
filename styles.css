@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #fff;
+}
+
+.btn{
+    padding: 10px;
+    margin: 60px;
+    position: relative;
+    background: linear-gradient(#777,#fff,#777);
+    cursor: pointer;
+}
